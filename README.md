@@ -37,12 +37,12 @@ This project helps improve cybersecurity monitoring by detecting suspicious acti
 
 ---
 
-# 🔐 Admin Login Credentials
+# 🔐 Admin and user Login Credentials
 
 | Username | Password |
 | -------- | -------- |
+| admin    | admin    |
 | yogesh   | 1234     |
-
 ---
 
 # 🛠️ Technologies Used
