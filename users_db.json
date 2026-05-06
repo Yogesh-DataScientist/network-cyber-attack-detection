@@ -1,0 +1,12 @@
+{
+    "admin": {
+        "password": "admin",
+        "role": "admin",
+        "status": "approved"
+    },
+    "yogesh": {
+        "password": "1234",
+        "role": "user",
+        "status": "approved"
+    }
+}
